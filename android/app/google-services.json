@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731587599296",
+    "project_id": "ada-lovelace-coding",
+    "storage_bucket": "ada-lovelace-coding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731587599296:android:13b6a1ae5840577880c625",
+        "android_client_info": {
+          "package_name": "com.example.lol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1sS6mwNlo-z4fGVqStpWtGfjHTYHta0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

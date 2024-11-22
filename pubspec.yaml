@@ -1,0 +1,65 @@
+name: lol
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter_launcher_icons: ^0.14.1
+  cloud_firestore: ^5.4.0
+  firebase_auth: ^5.1.4
+  firebase_core: ^3.3.0
+  firebase_storage: ^12.1.3
+  image_picker: ^1.1.2
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  auto_size_text: ^3.0.0
+  http: ^1.0.0
+  shared_preferences: ^2.1.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/app_icon.png"
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/Ada.jpg
+    - assets/images/IconAda.png
+    - assets/icons/angle-circle-down.png
+    - assets/icons/angle-circle-up.png
+    - assets/icons/home.png
+    - assets/icons/home-closed.png
+    - assets/icons/user.png
+    - assets/icons/user-closed.png
+    - assets/images/def_ava3.png
+    - assets/icons/scores.png
+    - assets/images/Ada_portret.jpg
+    - assets/images/analitick_machine.jpg
+    - assets/images/Babbage.jpg
+    - assets/images/geforce-ada.jpg
+    - assets/images/jacquard_loom.jpg
+    - assets/images/jacquard2.jpg
+    - assets/icons/rank.png
+    - assets/icons/rank-open.png
+    - assets/icons/tasks.png
+    - assets/icons/tasks-open.png
+    - assets/icons/gold-medal.png
+    - assets/icons/silver-medal.png
+    - assets/icons/bronze-medal.png
+    - assets/icons/check-circle.png
+    - assets/icons/cross-circle.png
+    - assets/images/prog.png
+    - assets/images/app_icon.png
+    - assets/images/Ada1.png
